@@ -1,0 +1,43 @@
+@import "reset.css";
+@import "variables.css";
+
+h1 {
+    color: var(--text-black)
+}
+
+
+
+body {
+    /* display: grid;
+    grid-template-areas: 
+    "header"
+    "main"
+    "footer"
+    ;
+    gap: 2rem;
+    height: 100vh; */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh; 
+}
+
+header {
+    background-color: rebeccapurple;
+    grid-area: header;
+    width: 100%;
+    height: 6rem;
+}
+
+main {
+    background-color: aquamarine;
+    grid-area: main;
+    height: 100%;
+}
+
+footer {
+    grid-area: footer;
+    height: 40rem;
+    background-color: rgb(65, 65, 65);
+}
