@@ -9,7 +9,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 4rem;
   background: rgb(255, 255, 255);
   background: -moz-linear-gradient(
     90deg,
@@ -52,7 +52,6 @@ main {
   flex-direction: column;
   flex-wrap: nowrap;
   gap: 1.5rem;
-  background-color: rgb(255, 255, 255);
   width: fit-content;
   margin: auto;
   margin-bottom: 2rem;
@@ -77,7 +76,6 @@ section {
 .hero {
   display: flex;
   margin: 0 auto 1rem;
-  height: 10rem;
 }
 
 .hero-description {
@@ -86,12 +84,23 @@ section {
   flex-direction: column;
   gap: 1rem;
 }
+
 .hero-description h1{
   font-size: 4rem;
   margin-bottom: 1rem;
 }
+
 .hero-description p{
   max-width: 72ch ;
+}
+
+.hero-description a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: teal;
+  width: fit-content;
+  padding: 0.5rem 1rem;
+  margin-top: 2rem;
 }
 
 /* projects */
@@ -212,25 +221,14 @@ section {
 
 /* footer */
 footer {
-  height: 15rem;
+  height: 5rem;
   background-color: rgb(65, 65, 65);
   display: flex;
   justify-content: center;
-  align-items: start;
+  align-items: center;
   padding: 1rem;
 }
 
-footer a {
+footer p {
   color: whitesmoke;
-  text-decoration: none;
-  height: fit-content;
-  width: fit-content;
-  transition: all 0.3s ease;
-  border-radius: var(--border-radius);
-  margin-top: 2rem;
-}
-
-footer a:hover {
-  color: rgb(0, 169, 169);
-
 }
