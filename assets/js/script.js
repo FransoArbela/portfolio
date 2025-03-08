@@ -1,25 +1,14 @@
 const cards = document.querySelectorAll(".card");
 
 cards.forEach((card) => {
-  card.addEventListener("mouseenter", () => {
-    card.classList.add("on-hover")
-    const hoverDisplay = document.createElement("div");
-    hoverDisplay.className = "hover";
+  const visitBtn = card.querySelector("#visit-btn");
+  const githubLink = card.querySelector("#github-link");
 
-    const paragraph = card.querySelector("p");
-    // Clone the paragraph so the original stays intact
-    const clonedParagraph = paragraph.cloneNode(true);
-    clonedParagraph.style.display = "block";
-    hoverDisplay.appendChild(clonedParagraph);
-
-    card.appendChild(hoverDisplay);
+  githubLink.addEventListener("click", function(event) {
+    event.stopPropagation();
   });
 
-  card.addEventListener("mouseleave", () => {
-    const hover = card.querySelector(".hover");
-    if (hover) {
-      card.removeChild(hover);
-      card.classList.remove("on-hover");
-    }
+  card.addEventListener("click", function() {
+    visitBtn.click();
   });
 });
