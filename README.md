@@ -4,17 +4,21 @@ FransoArbela
 
 Welcome to my portfolio repository! This website showcases three projects from my Frontend Programme. Each project is accompanied by a brief description, a link to its GitHub repository, a live demo, and a reflection report outlining what I did well and what can be improved.
 
-##Table of Contents
-* Description
-* Projects
-  * Cross Course Project – Rainydays
-  * Semester Project 1
-  * Exam Project 1
-* Reflection Report
-* Built With
-* Getting Started
-* Contributing
-* Acknowledgments
+## Table of Contents
+- [Description](#description)
+- [Projects](#projects)
+  - [Cross Course Project – Rainydays](#cross-course-project--rainydays)
+  - [Semester Project 1](#semester-project-1)
+  - [Exam Project 1](#exam-project-1)
+- [Reflection Report](#reflection-report)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Installing](#installing)
+  - [Running](#running)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Description
 
@@ -26,7 +30,7 @@ This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaSc
 Rainydays
 * Description: A weather application that predicts rainy days by utilizing real-time API data.
 * GitHub Repository: <a href="https://github.com/FransoArbela/HTML-CSS-Course-Assignment-RainyDayz-Samal-Ibrahim">Rainy Days Repo</a>
-* Live Demo: <a href="https://rainy-dayz-samal.netlify.app/">Rainydays Live</a> Rainydays Live
+* Live Demo: <a href="https://rainy-dayz-samal.netlify.app/">Rainydays Live</a>
 
 
 Hamar Community Science Museum
