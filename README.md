@@ -23,19 +23,26 @@ This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaSc
 ## Projects
 
 ### Rainydays
-- **Description:**Rainy Days is an ecommerc website, where users could experience of choosing a product and see a checkout success page.
+<img src="https://github.com/FransoArbela/FransoArbela/blob/main/assets/img/rainydays-teaser.png?raw=true" alt="Rainydays Teaser" width="150" />
+
+**Description:** Rainy Days is an ecommerce website, where users can choose a product and see a checkout success page.
 - **GitHub Repository:** [Rainy Days Repo](https://github.com/FransoArbela/HTML-CSS-Course-Assignment-RainyDayz-Samal-Ibrahim)
 - **Live Demo:** [Rainydays Live](https://rainy-dayz-samal.netlify.app/)
 
 ### Hamar Community Science Museum
-- **Description:**Hamar community science museum was a project that would aim at a certain age group, a combination of fun design and informative.
+<img src="https://github.com/FransoArbela/FransoArbela/blob/main/assets/img/hamar-teaser.png?raw=true" alt="Hamar Community Science Museum Teaser" width="150" />
+
+**Description:** Hamar Community Science Museum is a project aimed at a certain age group, combining fun design with informative content.
 - **GitHub Repository:** [Museum Repo](https://github.com/FransoArbela/hamar_community_science_museum)
-- **Live Demo:** [Museum Live](https://fransoarbela.github.io/hamar_community_science_museum/) 
+- **Live Demo:** [Museum Live](https://fransoarbela.github.io/hamar_community_science_museum/)
 
 ### HotView Labs
-- **Description:** HotView Labs was a blog website using an API. Visitors could read posts and create accounts, while the admin could log in to create or edit posts.
+<img src="https://github.com/FransoArbela/FransoArbela/blob/main/assets/img/hotview-teaser.png?raw=true" alt="HotView Labs Teaser" width="150" />
+
+**Description:** HotView Labs is a blog website using an API. Visitors can read posts and create accounts, while the admin can log in to create or edit posts.
 - **GitHub Repository:** [HotView Labs Repo](https://github.com/NoroffFEU/FED1-PE1-FransoArbela)
 - **Live Demo:** [HotView Labs Live](https://hotview-labs.netlify.app/)
+
 
 ## Reflection Report
 
