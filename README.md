@@ -52,32 +52,33 @@ This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaSc
 
 ## Reflection Report
 
-Rainy Days
-•	HTML & File Organization:
+#Rainy Days
+
+* HTML & File Organization:
 I reworked the project by cleaning up the HTML structure and rearranging the files so everything is better organized.
-•	CSS Simplification:
+* CSS Simplification:
 I cleaned up the CSS code, making it simpler and easier to work with.
-•	Design Approach:
+* Design Approach:
 If I had to do it again, I’d go for an even simpler, more modern design. I plan to try out layout tools like CSS Grid or Flexbox to help with this.
-•	Reflection:
+* Reflection:
 Instead of starting from scratch, I chose to improve what I already had. This challenge taught me how to optimize and refactor my code effectively.
 
 Project Exam 1
-•	Project Focus:
+* Project Focus:
 This project was all about APIs and JavaScript. I aimed to create reusable code blocks. Even though I’m still learning, I see this as a strong base for future work.
-•	Learning About APIs:
+* Learning About APIs:
 I want to understand APIs better because I wasn’t completely happy with how I used them. I plan to study better error handling and data management practices.
-•	HTML Structure Improvement:
+* HTML Structure Improvement:
 I realized I need to use more semantic HTML tags and proper meta elements to make my project more accessible and boost SEO.
-•	Enhancing CSS Skills:
+* Enhancing CSS Skills:
 My CSS has improved, but I still want to use the :root pseudo-class more effectively and learn more advanced layout techniques.
 
 Semester Project 1
-•	Reorganized File Structure:
+* Reorganized File Structure:
 I grouped related CSS and HTML files into folders to keep things neat and easy to manage.
-•	Improved HTML Structure:
+* Improved HTML Structure:
 I updated the HTML layout by using proper semantic tags and making sure every page has a solid structure. I also added or updated meta descriptions for better SEO.
-•	CSS Style Adjustments:
+* CSS Style Adjustments:
 I fixed some styling issues that I didn’t get a chance to address during the first build.
 
 Overall Reflection & Future Plans
@@ -85,9 +86,9 @@ What I Learned:
 
 Every project showed me how important it is to write clean code, keep my files organized, and use the right HTML tags. I realized that even small changes can really improve the final project.
 What I'm Working on Next:
-•	Better CSS Layouts: I want to use CSS Grid and Flexbox more effectively.
-•	Improved API Handling: I need to get better at managing API errors and data.
-•	Using Semantic HTML: I plan to use the correct HTML tags to make my projects more accessible and search engine friendly.
+* Better CSS Layouts: I want to use CSS Grid and Flexbox more effectively.
+* Improved API Handling: I need to get better at managing API errors and data.
+* Using Semantic HTML: I plan to use the correct HTML tags to make my projects more accessible and search engine friendly.
 By working on these areas, I hope to build projects that not only look good but also work well and are easy to update in the future.
 
 
