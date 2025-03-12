@@ -2,24 +2,46 @@ FransoArbela
 
 ![image](https://github.com/FransoArbela/FransoArbela/blob/main/assets/img/portfolio.png)
 
-A simple overview of the use/purpose of the project.
+Welcome to my portfolio repository! This website showcases three projects from my Frontend Programme. Each project is accompanied by a brief description, a link to its GitHub repository, a live demo, and a reflection report outlining what I did well and what can be improved.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaScript. It serves as a showcase of my work in the Frontend Programme by including:
 
-You can add some bullet points if you'd like to:
+Project Thumbnails: Optimized images (PNG or JPEG ≤200KB)
+Project Titles and Descriptions: A brief teaser of each project (15–20 words)
+Repository & Live Demo Links: Direct access to the project source code and a live demo
+Reflection Report: A detailed self-assessment on project strengths and areas for improvement
 
-- List item 1
-- List item 2
-- List item 3
+Projects
+Cross Course Project – Rainydays
+* Description: A weather application that predicts rainy days by utilizing real-time API data.
+* GitHub Repository: Rainydays Repo
+* Live Demo: Rainydays Live
 
-## Built With
+Semester Project 1
+* Description: A responsive website designed to enhance user interaction and accessibility.
+* GitHub Repository: Semester Project 1 Repo
+* Live Demo: Semester Project 1 Live
+  
+Exam Project 1
+* Description: An interactive project showcasing problem-solving skills with JavaScript and APIs.
+* GitHub Repository: Exam Project 1 Repo
+* Live Demo: Exam Project 1 Live
 
-You can list a the tech stack that you've used over here
+Reflection Report
+A comprehensive reflection PDF is included in this repository. It details:
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+* A summary of each project
+* The feedback received from instructors
+* My self-assessment and planned improvements
+* Links to each project (both GitHub and live demo)
+Please refer to the Reflection Report for a detailed analysis.
+
+Built With
+* HTML
+* CSS (No CSS frameworks used)
+* Vanilla JavaScript
 
 ## Getting Started
 
@@ -29,15 +51,10 @@ This is where you list how to get the project started. It typically just include
 
 1. Clone the repo:
 
+HotView LAbs
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
+gh repo clone NoroffFEU/FED1-PE1-FransoArbela```
 
-2. Install the dependencies:
-
-```
-npm install
-```
 
 ### Running
 
