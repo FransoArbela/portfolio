@@ -13,21 +13,25 @@ Project Titles and Descriptions: A brief teaser of each project (15–20 words)
 Repository & Live Demo Links: Direct access to the project source code and a live demo
 Reflection Report: A detailed self-assessment on project strengths and areas for improvement
 
+
 Projects
 Cross Course Project – Rainydays
 * Description: A weather application that predicts rainy days by utilizing real-time API data.
 * GitHub Repository: Rainydays Repo
 * Live Demo: Rainydays Live
 
+
 Semester Project 1
 * Description: A responsive website designed to enhance user interaction and accessibility.
 * GitHub Repository: Semester Project 1 Repo
 * Live Demo: Semester Project 1 Live
-  
+
+
 Exam Project 1
 * Description: An interactive project showcasing problem-solving skills with JavaScript and APIs.
 * GitHub Repository: Exam Project 1 Repo
 * Live Demo: Exam Project 1 Live
+
 
 Reflection Report
 A comprehensive reflection PDF is included in this repository. It details:
@@ -51,19 +55,22 @@ This is where you list how to get the project started. It typically just include
 
 1. Clone the repo:
 
-HotView LAbs
+HotView Labs
 ```bash
-gh repo clone NoroffFEU/FED1-PE1-FransoArbela```
+gh repo clone NoroffFEU/FED1-PE1-FransoArbela
 
+```
 
-### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
+Rainy Days
 ```bash
-npm run start
+gh repo clone FransoArbela/HTML-CSS-Course-Assignment-RainyDayz-Samal-Ibrahim
+
+```
+
+Hamar Community Sciene Museum
+```bash
+gh repo clone FransoArbela/hamar_community_science_museum
+
 ```
 
 ## Contributing
