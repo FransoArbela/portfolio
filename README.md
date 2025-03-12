@@ -16,9 +16,13 @@ Welcome to my portfolio repository! This website showcases three projects from m
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
+
+
 ## Description
 
 This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaScript. It serves as a showcase of my work in the Frontend Programme.
+
+
 
 ## Projects
 
@@ -44,6 +48,8 @@ This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaSc
 - **Live Demo:** [HotView Labs Live](https://hotview-labs.netlify.app/)
 
 
+
+
 ## Reflection Report
 
 A comprehensive reflection PDF is included in this repository. It details:
@@ -54,11 +60,15 @@ A comprehensive reflection PDF is included in this repository. It details:
 
 Please refer to the [Reflection Report](./Reflection_Report.pdf) for a detailed analysis.
 
+
+
 ## Built With
 
 - HTML
 - CSS (No CSS frameworks used)
 - Vanilla JavaScript
+
+
 
 ## Getting Started
 
