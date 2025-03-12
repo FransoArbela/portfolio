@@ -52,7 +52,7 @@ This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaSc
 
 ## Reflection Report
 
-#Rainy Days
+Rainy Days
 
 * HTML & File Organization:
 I reworked the project by cleaning up the HTML structure and rearranging the files so everything is better organized.
@@ -81,7 +81,7 @@ I updated the HTML layout by using proper semantic tags and making sure every pa
 * CSS Style Adjustments:
 I fixed some styling issues that I didn’t get a chance to address during the first build.
 
-Overall Reflection & Future Plans
+# Overall Reflection & Future Plans
 What I Learned:
 
 Every project showed me how important it is to write clean code, keep my files organized, and use the right HTML tags. I realized that even small changes can really improve the final project.
