@@ -61,13 +61,14 @@ Clone each repository:
 - **HotView Labs**
   ```bash
   gh repo clone NoroffFEU/FED1-PE1-FransoArbela
+    ```
   
 - **Rainydays**
   ```bash
-gh repo clone FransoArbela/HTML-CSS-Course-Assignment-RainyDayz-Samal-Ibrahim
-  
+  gh repo clone FransoArbela/HTML-CSS-Course-Assignment-RainyDayz-Samal-Ibrahim
+    ```
+    
 - **Hamar Community Science Museum**
   ```bash
- gh repo clone FransoArbela/hamar_community_science_museum
-
+   gh repo clone FransoArbela/hamar_community_science_museum
   ```
