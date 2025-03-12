@@ -4,33 +4,41 @@ FransoArbela
 
 Welcome to my portfolio repository! This website showcases three projects from my Frontend Programme. Each project is accompanied by a brief description, a link to its GitHub repository, a live demo, and a reflection report outlining what I did well and what can be improved.
 
+##Table of Contents
+* Description
+* Projects
+  * Cross Course Project – Rainydays
+  * Semester Project 1
+  * Exam Project 1
+* Reflection Report
+* Built With
+* Getting Started
+* Contributing
+* Acknowledgments
+
 ## Description
 
-This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaScript. It serves as a showcase of my work in the Frontend Programme by including:
-
-Project Thumbnails: Optimized images (PNG or JPEG ≤200KB)
-Project Titles and Descriptions: A brief teaser of each project (15–20 words)
-Repository & Live Demo Links: Direct access to the project source code and a live demo
-Reflection Report: A detailed self-assessment on project strengths and areas for improvement
+This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaScript. It serves as a showcase of my work in the Frontend Programme.
 
 
-Projects
-Cross Course Project – Rainydays
+#Projects
+
+Rainydays
 * Description: A weather application that predicts rainy days by utilizing real-time API data.
-* GitHub Repository: Rainydays Repo
-* Live Demo: Rainydays Live
+* GitHub Repository: <a href="https://github.com/FransoArbela/HTML-CSS-Course-Assignment-RainyDayz-Samal-Ibrahim">Rainy Days Repo</a>
+* Live Demo: <a href="https://rainy-dayz-samal.netlify.app/">Rainydays Live</a> Rainydays Live
 
 
-Semester Project 1
+Hamar Community Science Museum
 * Description: A responsive website designed to enhance user interaction and accessibility.
-* GitHub Repository: Semester Project 1 Repo
-* Live Demo: Semester Project 1 Live
+* GitHub Repository: <a href="">Museum Repo</a></a>
+* Live Demo: <a href=""><a href="">Museum Live</a></a>
 
 
-Exam Project 1
+HotView Labs
 * Description: An interactive project showcasing problem-solving skills with JavaScript and APIs.
-* GitHub Repository: Exam Project 1 Repo
-* Live Demo: Exam Project 1 Live
+* GitHub Repository: <a href="https://github.com/NoroffFEU/FED1-PE1-FransoArbela">HotView Labs Repo</a>
+* Live Demo: <a href="https://hotview-labs.netlify.app/">HotView Labs Live</a>
 
 
 Reflection Report
@@ -49,9 +57,6 @@ Built With
 
 ## Getting Started
 
-### Installing
-
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
 1. Clone the repo:
 
@@ -75,20 +80,16 @@ gh repo clone FransoArbela/hamar_community_science_museum
 
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+Contributions are welcome! If you have suggestions or improvements:
 
-## Contact
+1. Fork this repository.
+2. Create a new branch for your feature: git checkout -b feature/YourFeature
+3. Commit your changes: git commit -m 'Add YourFeature'
+4. Push to the branch: git push origin feature/YourFeature
+5. Open a pull request for review.
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
 
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+Acknowledgments
+* Special thanks to my instructors for their guidance and feedback.
+* Appreciation to all the contributors who have helped me refine these projects.
