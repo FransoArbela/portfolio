@@ -23,16 +23,17 @@ This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaSc
 ## Projects
 
 ### Rainydays
-- **Description:** A weather application that predicts rainy days by utilizing real-time API data.
+- **Description:**Rainy Days is an ecommerc website, where users could experience of choosing a product and see a checkout success page.
 - **GitHub Repository:** [Rainy Days Repo](https://github.com/FransoArbela/HTML-CSS-Course-Assignment-RainyDayz-Samal-Ibrahim)
 - **Live Demo:** [Rainydays Live](https://rainy-dayz-samal.netlify.app/)
 
 ### Hamar Community Science Museum
-- **Description:** A responsive website designed to enhance user interaction and accessibility.
+- **Description:**Hamar community science museum was a project that would aim at a certain age group, a combination of fun design and informative.
 - **GitHub Repository:** [Museum Repo](https://github.com/FransoArbela/hamar_community_science_museum)
 - **Live Demo:** [Museum Live](https://fransoarbela.github.io/hamar_community_science_museum/) 
+
 ### HotView Labs
-- **Description:** An interactive project showcasing problem-solving skills with JavaScript and APIs.
+- **Description:** HotView Labs was a blog website using an API. Visitors could read posts and create accounts, while the admin could log in to create or edit posts.
 - **GitHub Repository:** [HotView Labs Repo](https://github.com/NoroffFEU/FED1-PE1-FransoArbela)
 - **Live Demo:** [HotView Labs Live](https://hotview-labs.netlify.app/)
 
