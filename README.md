@@ -4,7 +4,8 @@ Welcome to my portfolio repository! This website showcases three projects from m
 
 ## Description
 
-This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaScript. It serves as a showcase of my work in the Frontend Programme.
+This portfolio is a single-page website built with HTML, CSS, and Vanilla JavaScript. 
+It serves as a showcase of my work in the Frontend Programme.
 
 
 ## Projects
